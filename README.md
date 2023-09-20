@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Ceyda Aleyna Altun.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning HTML and CSS.
-- 💞️ I’m looking forward to starting Java Script. 
 - 📫 How to reach me "ceydadotcom@gmail.com"
 
 <!---
